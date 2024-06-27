@@ -2,6 +2,10 @@
 
 ### Payments
 * [Fixed] An issue where the correct card brand was not being displayed for card brand choice in STPPaymentOptionsViewController and STPPaymentContext.
+* [Added] Support for Sunbit bindings.
+
+### PaymentSheet
+* [Added] Support for Sunbit (Private Beta) with PaymentIntents.
 
 ## 23.27.6 2024-06-25
 ### All
